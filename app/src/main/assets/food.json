@@ -1,0 +1,46 @@
+{
+  "foods": [
+    {
+        "title": "Topokki",
+        "image" : "https://i.pinimg.com/564x/f8/a3/a5/f8a3a53e6ecc2c6a33d3484d9cd15ed6.jpg",
+        "description": "Topokki (떡볶이) or stir-fried rice cakes is a popular Korean food. It can be seasoned with either spicy gochujang (chili paste) or non-spicy ganjang (soy sauce)-based sauce."
+    },
+
+    {
+        "title": "Eomuk",
+        "image" : "https://i.pinimg.com/564x/42/2a/1a/422a1a812de948141d32db6fbcd66851.jpg",
+        "description": "Eomuk (어묵) is a processed seafood product that uses various cuts from white fish, such as pollack, cutlassfish and yellow corvina. The meat is pureed, salt is added, and then it is steamed until fully cooked."
+    },
+
+    {
+        "title": "Tongdak",
+        "image" : "https://i.pinimg.com/564x/cb/00/3f/cb003f8e6635b0f330a29dcfcc4441e4.jpg",
+        "description": "Tongdak (통닭, whole chicken) is a variety of chicken, prepared by deep-frying a whole chicken. It was a popular food in 1970s being the only kind of fried chicken sold in Korea. It is considered as the proto-Korean fried chicken."
+    },
+
+    {
+        "title": "Samgyetang",
+        "image" : "https://i.pinimg.com/564x/56/5c/a4/565ca4aba5ec047cd661ff72201344f2.jpg",
+        "description": "Samgye-tang (삼계탕) or ginseng chicken soup, meaning ginseng - chicken - soup in Korean, consists primarily of a whole young chicken (poussin) - filled with garlic, rice, jujube, and ginseng. Samgye-tang is a Korean traditional soup for body health."
+    },
+
+    {
+        "title": "Bibimbap",
+        "image" : "https://i.pinimg.com/564x/1a/d9/f8/1ad9f81a00d544374fc5f7147619e1f6.jpg",
+        "description": "Bibimbap (비빔밥) is served as a bowl of warm white rice topped with namul or kimchi and gochujang, soy sauce, or doenjang. A raw or fried egg and sliced meat (usually beef) are common additions. The hot dish is stirred together thoroughly just before eating."
+    },
+
+    {
+        "title": "Jajangmyeon",
+        "image" : "https://i.pinimg.com/564x/a9/05/78/a9057829674f50889fa7d5d516cab756.jpg",
+        "description": "Jajangmyeon (자장면) or jjajangmyeon (짜장면) is a Korean-style Chinese noodle dish topped with a thick sauce made of chunjang, diced pork, and vegetables. A variant of the dish uses seafood."
+    },
+
+    {
+        "title": "Tteokgalbi",
+        "image" : "https://i.pinimg.com/564x/67/49/30/67493039f8bf5be6d720b2bd893b46a2.jpg",
+        "description": "Tteok-galbi (떡갈비) or grilled short rib patties is a Korean beef dish made with minced beef short ribs. Originally a royal dish, tteok-galbi is now a local specialty of Gyeonggi Province in the central-west region and South Jeolla Province in the south-west region of the Korean Peninsula."
+    }
+
+  ]
+}
